@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- White Card Background -->
+    <solid android:color="#FFFFFF"/>
+
+    <!-- Rounded Corners -->
+    <corners android:radius="18dp"/>
+
+    <!-- Grey Border -->
+    <stroke
+        android:width="2dp"
+        android:color="#D6D6D6"/>
+
+    <!-- Inner Padding -->
+    <padding
+        android:left="10dp"
+        android:top="10dp"
+        android:right="10dp"
+        android:bottom="10dp"/>
+
+</shape>

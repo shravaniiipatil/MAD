@@ -1,0 +1,19 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Pressed -->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#0D47A1"/>
+            <corners android:radius="14dp"/>
+        </shape>
+    </item>
+
+    <!-- Default -->
+    <item>
+        <shape>
+            <solid android:color="#1565C0"/>
+            <corners android:radius="14dp"/>
+        </shape>
+    </item>
+
+</selector>
